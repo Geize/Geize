@@ -2,9 +2,9 @@
 
 ### Hi there, I am Geizecler Tomazetto.  
 
-"Ohh my Gosh 😨, it is hard." 
+*"Ohh my Gosh, it is hard."* 😨
 
-Ok, call me **Geize**. 
+Ok, call me **Geize**.
 
 
 
@@ -32,4 +32,4 @@ However, if you need help, do not hesitate to contact me. Do not worry, I won't 
 
 ![image](https://img.shields.io/badge/Bash%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
