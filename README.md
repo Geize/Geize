@@ -4,7 +4,7 @@
 
 "Ohh my Gosh 😨, it is hard." 
 
-Ok, call me Geize. 
+Ok, call me **Geize**. 
 
 
 
