@@ -2,7 +2,9 @@
 
 ### Hi there, I am Geizecler Tomazetto.  
 
-😨 Ohhh, it is hard. Ok, call me Geize. 
+"Ohh my Gosh 😨, it is hard." 
+
+Ok, call me Geize. 
 
 
 
