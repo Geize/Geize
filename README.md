@@ -28,6 +28,10 @@ There are a bunch of tutorial for processing of 16S/ITS amplicons, assembly of g
 
 However, if you need help, do not hesitate to contact me. Do not worry, I won't jump into your project. But I'll be happy if you can cite one of my articles.
 
+
+**All the best for us!** 🤓
+
+
 #### Coding using
 
           
