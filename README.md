@@ -1,6 +1,6 @@
 
 
-### Hi there, My name is Geizecler Tomazetto.  
+### Hi there, my name is Geizecler Tomazetto.  
 
 *"Ohh my Gosh, what?"* 😨
 
