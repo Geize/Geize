@@ -1,8 +1,8 @@
 
 
-### Hi there, I am Geizecler Tomazetto.  
+### Hi there, My name is Geizecler Tomazetto.  
 
-*"Ohh my Gosh, it is hard."* 😨
+*"Ohh my Gosh, what?"* 😨
 
 Ok, call me **Geize**.
 
