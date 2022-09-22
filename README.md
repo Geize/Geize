@@ -8,11 +8,11 @@ Ok, call me **Geize**.
 
 
 
-### A (very) brief self-introduction
+### A (very) brief self-introduction.
 
 ------------------------------------------------------------------------
 
--   👩‍🔬 I am working as a <a href="https://pure.au.dk/portal/en/persons/geizecler-tomazetto(ed7ae466-d9ce-4608-8171-4c3452177cf3).html"> postdoc</a> at the Department of Biological and Chemical Engineering at Aarhus University, Denmark.
+-   I am working as a <a href="https://pure.au.dk/portal/en/persons/geizecler-tomazetto(ed7ae466-d9ce-4608-8171-4c3452177cf3).html"> postdoc</a> at the Department of Biological and Chemical Engineering at Aarhus University, Denmark.
 
 -   And also a <a href ="https://microbiomedata.org/nmdc-champions/"> NMDCChampion</a>.
 
@@ -20,8 +20,10 @@ Ok, call me **Geize**.
 
 -   📧 <a href = "mailto:geizetomazetto@gmail.com"> My email</a>.
 
-#### Overview of my Github.
 
+
+### Overview of my Github.
+------------------------------------------------------------------------
 The purpose here is the reproducibility of the data described in my articles. In other words, you can download the data (accession number indicated on articles) and scripts and follow the instructions described in each repository. Then, you will have the same outcomes - 😅 hopefully.
 
 There are a bunch of tutorial for processing of 16S/ITS amplicons, assembly of genome and metagenome, prediction and annotation, etc. Therefore,I guess there is no reason to do more.
