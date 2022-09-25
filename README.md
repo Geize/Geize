@@ -24,11 +24,11 @@ Ok, call me **Geize**.
 
 ### Overview of my Github.
 ------------------------------------------------------------------------
-The purpose here is the reproducibility of the data described in my articles. In other words, you can download the data (accession number indicated on articles) and scripts, follow the instructions described in each repository. Hopefully, you will have the same outcomes. 😅 
+The purpose here is the reproducibility of the data described in my articles. In other words, you can download the data (accession number indicated on articles) and scripts, and follow the instructions described in each repository. Hopefully, you will have the same outcomes. 😅 
 
-There are a bunch of tutorial for processing of 16S/ITS amplicons, assembly of genome and metagenome, prediction and annotation, etc. Therefore,I guess there is no reason to do more.
+There are a bunch of tutorial for processing of 16S/ITS amplicons, assembly of genome and metagenome, prediction and annotation, etc. Therefore, I guess there is no reason to do more.
 
-However, if you need help, do not hesitate to contact me. Do not worry, I won't jump into your project. But I'll be happy if you can cite one of my articles.
+However, if you need help, do not hesitate to contact me. Do not worry. I won't jump into your project. But I'll be happy if you can cite one of my articles.
 
 
 **All the best for us!** 🤓
