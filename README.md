@@ -24,7 +24,7 @@ Ok, call me **Geize**.
 
 ### Overview of my Github.
 ------------------------------------------------------------------------
-The purpose here is the reproducibility of the data described in my articles. In other words, you can download the data (accession number indicated on articles) and scripts, follow the instructions described in each repository. Then, you will have the same outcomes - 😅 hopefully.
+The purpose here is the reproducibility of the data described in my articles. In other words, you can download the data (accession number indicated on articles) and scripts, follow the instructions described in each repository. Hopefully, you will have the same outcomes. 😅 
 
 There are a bunch of tutorial for processing of 16S/ITS amplicons, assembly of genome and metagenome, prediction and annotation, etc. Therefore,I guess there is no reason to do more.
 
