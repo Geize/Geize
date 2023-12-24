@@ -2,19 +2,20 @@
 
 ### Hi there, my name is Geizecler Tomazetto.  
 
-*"Ohh my Gosh, what?"* 😨
-
-Ok, call me **Geize**.
-
-
+(Call me **Geize**).
 
 ### A (very) brief self-introduction.
 
 ------------------------------------------------------------------------
 
+- I am ..
+       -->  a senior research scientist in the University of Pittburgh (UPMC Children's Hospital).
+- 
 -   I am working as a <a href="https://pure.au.dk/portal/en/persons/geizecler-tomazetto(ed7ae466-d9ce-4608-8171-4c3452177cf3).html"> postdoc</a> at the Department of Biological and Chemical Engineering at Aarhus University, Denmark.
 
--   And also a <a href ="https://microbiomedata.org/nmdc-champions/"> NMDCChampion</a>.
+- 
+-
+-   I am also a <a href ="https://microbiomedata.org/nmdc-champions/"> NMDCChampion</a>.
 
 -   You can find more about my research lines and skills <a href="https://geize.github.io">here</a>.
 
