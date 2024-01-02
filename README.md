@@ -4,6 +4,8 @@
 
 My name is Geizecler Tomazetto. But you can call me **Geize**.
 
+Markup :  ## Heading 2 ##
+
 Some lines about me: 
        - I have a Ph.D. in Microbial genetics. 
        - Senior research scientist in the University of Pittsburgh ((UPMC Children's Hospital).
