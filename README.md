@@ -1,18 +1,14 @@
 
 
-### Hi there, my name is Geizecler Tomazetto.  
+### Hi there,
 
-(Call me **Geize**).
+My name is Geizecler Tomazetto. But you can call me **Geize**.
 
-
-- I am ..
-       -->  a senior research scientist in the University of Pittburgh (UPMC Children's Hospital).
-- 
--   I am working as a <a href="https://pure.au.dk/portal/en/persons/geizecler-tomazetto(ed7ae466-d9ce-4608-8171-4c3452177cf3).html"> postdoc</a> at the Department of Biological and Chemical Engineering at Aarhus University, Denmark.
-
-- 
--
--   I am also a <a href ="https://microbiomedata.org/nmdc-champions/"> NMDCChampion</a>.
+Some lines about me: 
+       - I have a Ph.D. in Microbial genetics. 
+       - Senior research scientist in the University of Pittsburgh ((UPMC Children's Hospital).
+       - Review Editor on the Editorial Board of Bioprocess Engineering (specialty section of Frontiers in Bioengineering and Biotechnology).
+       - A NMDC Champion <a href ="https://microbiomedata.org/nmdc-champions/">.
 
 -   You can find more about my research lines and skills <a href="https://geize.github.io">here</a>.
 
