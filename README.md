@@ -4,14 +4,12 @@
 
 My name is Geizecler Tomazetto. But you can call me **Geize**.
 
-Markup :  ## Heading 2 ##
-
 Some lines about me: 
-       - I have a Ph.D. in Microbial genetics. 
-       - Senior research scientist in the University of Pittsburgh ((UPMC Children's Hospital).
-       - Review Editor on the Editorial Board of Bioprocess Engineering (specialty section of Frontiers in Bioengineering and Biotechnology).
-       - A NMDC Champion <a href ="https://microbiomedata.org/nmdc-champions/">.
-       -   📧 <a href = "mailto:geizetomazetto@gmail.com"> My email</a>.
+- I have a Ph.D. in Microbial genetics. 
+- Senior research scientist in the University of Pittsburgh ((UPMC Children's Hospital).
+- Review Editor on the Editorial Board of Bioprocess Engineering (specialty section of Frontiers in Bioengineering and Biotechnology).
+- A NMDC Champion <a href ="https://microbiomedata.org/nmdc-champions/">.
+-   📧 <a href = "mailto:geizetomazetto@gmail.com"> My email</a>.
 
 
 
