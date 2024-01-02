@@ -4,9 +4,6 @@
 
 (Call me **Geize**).
 
-### A (very) brief self-introduction.
-
-------------------------------------------------------------------------
 
 - I am ..
        -->  a senior research scientist in the University of Pittburgh (UPMC Children's Hospital).
