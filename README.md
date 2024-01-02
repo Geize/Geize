@@ -19,6 +19,8 @@ Some lines about me:
 ------------------------------------------------------------------------
 My goal here is to ensure that the analyses in my articles can be replicated. Basically, you can download the raw datasets (look for the accession number in the articles, and here you find the workflows and scripts, then follow the instructions provided in each repository. Hopefully, you will have the same results. 😅
 
+My idea is not to create another tutorial webpage. Plenty of tutorials  available that you can access. So, I believe there's little reason to have another one.
+Last but not least, if you find yourself needing assistance, do not hesitate to reach me out.  
 
 
 **All the best for us!** 🤓
