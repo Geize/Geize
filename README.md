@@ -9,20 +9,16 @@ Some lines about me:
        - Senior research scientist in the University of Pittsburgh ((UPMC Children's Hospital).
        - Review Editor on the Editorial Board of Bioprocess Engineering (specialty section of Frontiers in Bioengineering and Biotechnology).
        - A NMDC Champion <a href ="https://microbiomedata.org/nmdc-champions/">.
+       -   📧 <a href = "mailto:geizetomazetto@gmail.com"> My email</a>.
 
--   You can find more about my research lines and skills <a href="https://geize.github.io">here</a>.
 
--   📧 <a href = "mailto:geizetomazetto@gmail.com"> My email</a>.
 
 
 
 ### Overview of my Github.
 ------------------------------------------------------------------------
-The purpose here is the reproducibility of the data described in my articles. In other words, you can download the data (accession number indicated on articles) and scripts, and follow the instructions described in each repository. Hopefully, you will have the same outcomes. 😅 
+My goal here is to ensure that the analyses in my articles can be replicated. Basically, you can download the raw datasets (look for the accession number in the articles, and here you find the workflows and scripts, then follow the instructions provided in each repository. Hopefully, you will have the same results. 😅
 
-There are a bunch of tutorial for processing of 16S/ITS amplicons, assembly of genome and metagenome, prediction and annotation, etc. Therefore, I guess there is no reason to do more.
-
-However, if you need help, do not hesitate to contact me. Do not worry. I won't jump into your project. But I'll be happy if you can cite one of my articles.
 
 
 **All the best for us!** 🤓
